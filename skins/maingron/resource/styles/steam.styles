@@ -10,7 +10,7 @@ steam.styles
     almostBlack="20 20 20 255"
     almostBlackTrans="20 20 20 200"
     white="255 255 255 255"
-    grey="142 152 167 255"
+    grey="150 150 150 255"
     none="0 0 0 0"
     yellow="255 255 0 255"
     offwhite="159 162 168 255"
@@ -82,7 +82,7 @@ steam.styles
     ScrollGlyphDisabled="67 73 83 255"
     ScrollGlyphFocus="242 242 242 255"
 
-    ScrollBG="0 255 0 255" // the color of the scroll bar gutter
+    ScrollBG="30 30 30 255" // the color of the scroll bar gutter
 
     HeaderClient="42 49 63 255" // the color of the List box header in the main client window
     HeaderDialog="87 90 97 255" // the color of the list box header in other windows
@@ -1088,7 +1088,7 @@ steam.styles
 		bgcolor="none"
 		render_bg
 			{
-			0="fill( x0, y0, x1, y1, almostblack )" // bg
+			0="fill( x0, y0, x1, y1, black )" // bg
 	    }
     inset="2 2 2 2"
     }
@@ -1124,7 +1124,7 @@ steam.styles
 		render_bg
 		{
 			// background gradient
-			0="gradient( x0, y0, x1, y1, dialogbg, almostblack )"
+			0="gradient( x0, y0, x1, y1, dialogbg, black )"
 			1="gradient( x0, y0, x1, y0 + 31, backgroundstartsubtle, none )"
 
 		}
@@ -2937,8 +2937,8 @@ steam.styles
 			}
 			render_bg
 			{
-				// background gradient
-				1="gradient( x0, y0, x1, y1, dialogbg, almostblack )"
+				// background
+        1="fill( x0, y0, x1, y1, black )"
 			}
     }
 
