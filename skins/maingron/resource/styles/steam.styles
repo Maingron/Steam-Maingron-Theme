@@ -33,8 +33,9 @@ steam.styles
     buttontextactive=Text
 
     // cool we can define font-families here as well
-    basefont="ZCOOL KuaiLe"
-    basefont="ZCOOL KuaiLe" [$OSX]
+    basefont="Arial"
+    basefont="Helvetica" [$OSX]
+
 
     // new control colors
     ButtonFace="98 108 119 20"
