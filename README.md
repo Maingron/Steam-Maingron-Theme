@@ -6,7 +6,7 @@ This is a theme I once created for my Steam client. It's nothing special. Origin
 
 
 ## Installing
-You can install the Steam Theme by copying the `maingron` folder located in `theme/skins/` into the Steam skins folder. In my case the path is `C:\Program Files (x86)\Steam\skins\`. When you extract the download, the folder structure should look / contain something like this:
+You can install the Steam Theme by copying the `maingron` folder located in `theme/skins/` into the Steam skins folder. In my case the path is `C:\Program Files (x86)\Steam\skins\`. If a `skins`-folder doesn't exist, you can just create it. When you extract the download, the folder structure should look / contain something like this:
 ```txt
     C:\Program Files (x86)\Steam\skins\
         └───maingron
