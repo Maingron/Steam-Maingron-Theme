@@ -1,5 +1,6 @@
 # Maingron Steam Theme
 
+Note: This Repo is archived since there's a new Steam client version, that I suppose isn't compatible with this theme anymore, and I'm not interested in continuing this project. Feel free to fork this repo, if necessary!
 
 ## About Maingron Steam Theme
 This is a theme I once created for my Steam client. It's nothing special. Originally I only swapped a few color variables for darker ones.
